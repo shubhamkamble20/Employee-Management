@@ -1,0 +1,342 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ntt data online case study\\EmployeeManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{715D88F7-1A5B-4601-BC55-816A25DDA8BA}|EmployeeManagement\\EmployeeManagement.csproj|C:\\ntt data online case study\\EmployeeManagement\\employeemanagement\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{715D88F7-1A5B-4601-BC55-816A25DDA8BA}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{715D88F7-1A5B-4601-BC55-816A25DDA8BA}|EmployeeManagement\\EmployeeManagement.csproj|C:\\ntt data online case study\\EmployeeManagement\\employeemanagement\\addnewemployee.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{715D88F7-1A5B-4601-BC55-816A25DDA8BA}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\addnewemployee.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{715D88F7-1A5B-4601-BC55-816A25DDA8BA}|EmployeeManagement\\EmployeeManagement.csproj|C:\\ntt data online case study\\EmployeeManagement\\employeemanagement\\employeedetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{715D88F7-1A5B-4601-BC55-816A25DDA8BA}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\employeedetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{715D88F7-1A5B-4601-BC55-816A25DDA8BA}|EmployeeManagement\\EmployeeManagement.csproj|c:\\ntt data online case study\\employeemanagement\\employeemanagement\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{715D88F7-1A5B-4601-BC55-816A25DDA8BA}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{715D88F7-1A5B-4601-BC55-816A25DDA8BA}|EmployeeManagement\\EmployeeManagement.csproj|c:\\ntt data online case study\\employeemanagement\\employeemanagement\\site.master.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{715D88F7-1A5B-4601-BC55-816A25DDA8BA}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\site.master.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{715D88F7-1A5B-4601-BC55-816A25DDA8BA}|EmployeeManagement\\EmployeeManagement.csproj|c:\\ntt data online case study\\employeemanagement\\employeemanagement\\site.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{715D88F7-1A5B-4601-BC55-816A25DDA8BA}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\site.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{715D88F7-1A5B-4601-BC55-816A25DDA8BA}|EmployeeManagement\\EmployeeManagement.csproj|c:\\ntt data online case study\\employeemanagement\\employeemanagement\\site.mobile.master.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{715D88F7-1A5B-4601-BC55-816A25DDA8BA}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\site.mobile.master.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{715D88F7-1A5B-4601-BC55-816A25DDA8BA}|EmployeeManagement\\EmployeeManagement.csproj|c:\\ntt data online case study\\employeemanagement\\employeemanagement\\viewswitcher.ascx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{715D88F7-1A5B-4601-BC55-816A25DDA8BA}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\viewswitcher.ascx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{715D88F7-1A5B-4601-BC55-816A25DDA8BA}|EmployeeManagement\\EmployeeManagement.csproj|c:\\ntt data online case study\\employeemanagement\\employeemanagement\\viewswitcher.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}",
+      "RelativeMoniker": "D:0:0:{715D88F7-1A5B-4601-BC55-816A25DDA8BA}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\viewswitcher.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{715D88F7-1A5B-4601-BC55-816A25DDA8BA}|EmployeeManagement\\EmployeeManagement.csproj|C:\\ntt data online case study\\EmployeeManagement\\employeemanagement\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{715D88F7-1A5B-4601-BC55-816A25DDA8BA}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{715D88F7-1A5B-4601-BC55-816A25DDA8BA}|EmployeeManagement\\EmployeeManagement.csproj|c:\\ntt data online case study\\employeemanagement\\employeemanagement\\deleteemployeedetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{715D88F7-1A5B-4601-BC55-816A25DDA8BA}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\deleteemployeedetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{715D88F7-1A5B-4601-BC55-816A25DDA8BA}|EmployeeManagement\\EmployeeManagement.csproj|c:\\ntt data online case study\\employeemanagement\\employeemanagement\\deleteemployeedetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{715D88F7-1A5B-4601-BC55-816A25DDA8BA}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\deleteemployeedetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{715D88F7-1A5B-4601-BC55-816A25DDA8BA}|EmployeeManagement\\EmployeeManagement.csproj|c:\\ntt data online case study\\employeemanagement\\employeemanagement\\editemployeedetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{715D88F7-1A5B-4601-BC55-816A25DDA8BA}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\editemployeedetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{715D88F7-1A5B-4601-BC55-816A25DDA8BA}|EmployeeManagement\\EmployeeManagement.csproj|C:\\ntt data online case study\\EmployeeManagement\\employeemanagement\\addnewemployee.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{715D88F7-1A5B-4601-BC55-816A25DDA8BA}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\addnewemployee.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{715D88F7-1A5B-4601-BC55-816A25DDA8BA}|EmployeeManagement\\EmployeeManagement.csproj|C:\\ntt data online case study\\EmployeeManagement\\employeemanagement\\employeedataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{715D88F7-1A5B-4601-BC55-816A25DDA8BA}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\employeedataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{715D88F7-1A5B-4601-BC55-816A25DDA8BA}|EmployeeManagement\\EmployeeManagement.csproj|C:\\ntt data online case study\\EmployeeManagement\\employeemanagement\\editemployeedetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{715D88F7-1A5B-4601-BC55-816A25DDA8BA}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\editemployeedetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{715D88F7-1A5B-4601-BC55-816A25DDA8BA}|EmployeeManagement\\EmployeeManagement.csproj|C:\\ntt data online case study\\EmployeeManagement\\employeemanagement\\employeedetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{715D88F7-1A5B-4601-BC55-816A25DDA8BA}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\employeedetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{715D88F7-1A5B-4601-BC55-816A25DDA8BA}|EmployeeManagement\\EmployeeManagement.csproj|C:\\ntt data online case study\\EmployeeManagement\\employeemanagement\\addnewemployee.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{715D88F7-1A5B-4601-BC55-816A25DDA8BA}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\addnewemployee.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{715D88F7-1A5B-4601-BC55-816A25DDA8BA}|EmployeeManagement\\EmployeeManagement.csproj|C:\\ntt data online case study\\EmployeeManagement\\employeemanagement\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{715D88F7-1A5B-4601-BC55-816A25DDA8BA}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 18,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Site.Master.designer.cs",
+              "DocumentMoniker": "C:\\ntt data online case study\\EmployeeManagement\\EmployeeManagement\\Site.Master.designer.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Site.Master.designer.cs",
+              "ToolTip": "C:\\ntt data online case study\\EmployeeManagement\\EmployeeManagement\\Site.Master.designer.cs",
+              "RelativeToolTip": "EmployeeManagement\\Site.Master.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T13:48:37.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Site.Master",
+              "DocumentMoniker": "C:\\ntt data online case study\\EmployeeManagement\\EmployeeManagement\\Site.Master",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Site.Master",
+              "ToolTip": "C:\\ntt data online case study\\EmployeeManagement\\EmployeeManagement\\Site.Master",
+              "RelativeToolTip": "EmployeeManagement\\Site.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-10T13:48:43.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Site.Master.cs",
+              "DocumentMoniker": "C:\\ntt data online case study\\EmployeeManagement\\EmployeeManagement\\Site.Master.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Site.Master.cs",
+              "ToolTip": "C:\\ntt data online case study\\EmployeeManagement\\EmployeeManagement\\Site.Master.cs",
+              "RelativeToolTip": "EmployeeManagement\\Site.Master.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T13:48:31.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Site.Mobile.Master.designer.cs",
+              "DocumentMoniker": "C:\\ntt data online case study\\EmployeeManagement\\EmployeeManagement\\Site.Mobile.Master.designer.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Site.Mobile.Master.designer.cs",
+              "ToolTip": "C:\\ntt data online case study\\EmployeeManagement\\EmployeeManagement\\Site.Mobile.Master.designer.cs",
+              "RelativeToolTip": "EmployeeManagement\\Site.Mobile.Master.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T13:48:20.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ViewSwitcher.ascx.designer.cs",
+              "DocumentMoniker": "C:\\ntt data online case study\\EmployeeManagement\\EmployeeManagement\\ViewSwitcher.ascx.designer.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\ViewSwitcher.ascx.designer.cs",
+              "ToolTip": "C:\\ntt data online case study\\EmployeeManagement\\EmployeeManagement\\ViewSwitcher.ascx.designer.cs",
+              "RelativeToolTip": "EmployeeManagement\\ViewSwitcher.ascx.designer.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T13:43:03.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ViewSwitcher.ascx",
+              "DocumentMoniker": "C:\\ntt data online case study\\EmployeeManagement\\EmployeeManagement\\ViewSwitcher.ascx",
+              "RelativeDocumentMoniker": "EmployeeManagement\\ViewSwitcher.ascx",
+              "ToolTip": "C:\\ntt data online case study\\EmployeeManagement\\EmployeeManagement\\ViewSwitcher.ascx",
+              "RelativeToolTip": "EmployeeManagement\\ViewSwitcher.ascx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-12-10T13:41:17.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DeleteEmployeeDetails.aspx.cs",
+              "DocumentMoniker": "C:\\ntt data online case study\\EmployeeManagement\\EmployeeManagement\\DeleteEmployeeDetails.aspx.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\DeleteEmployeeDetails.aspx.cs",
+              "ToolTip": "C:\\ntt data online case study\\EmployeeManagement\\EmployeeManagement\\DeleteEmployeeDetails.aspx.cs",
+              "RelativeToolTip": "EmployeeManagement\\DeleteEmployeeDetails.aspx.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T07:47:08.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DeleteEmployeeDetails.aspx",
+              "DocumentMoniker": "C:\\ntt data online case study\\EmployeeManagement\\EmployeeManagement\\DeleteEmployeeDetails.aspx",
+              "RelativeDocumentMoniker": "EmployeeManagement\\DeleteEmployeeDetails.aspx",
+              "ToolTip": "C:\\ntt data online case study\\EmployeeManagement\\EmployeeManagement\\DeleteEmployeeDetails.aspx",
+              "RelativeToolTip": "EmployeeManagement\\DeleteEmployeeDetails.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-10T07:46:12.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EditEmployeeDetails.aspx.cs",
+              "DocumentMoniker": "C:\\ntt data online case study\\EmployeeManagement\\EmployeeManagement\\EditEmployeeDetails.aspx.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\EditEmployeeDetails.aspx.cs",
+              "ToolTip": "C:\\ntt data online case study\\EmployeeManagement\\EmployeeManagement\\EditEmployeeDetails.aspx.cs",
+              "RelativeToolTip": "EmployeeManagement\\EditEmployeeDetails.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T05:51:40.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EditEmployeeDetails.aspx",
+              "DocumentMoniker": "C:\\ntt data online case study\\EmployeeManagement\\EmployeeManagement\\EditEmployeeDetails.aspx",
+              "RelativeDocumentMoniker": "EmployeeManagement\\EditEmployeeDetails.aspx",
+              "ToolTip": "C:\\ntt data online case study\\EmployeeManagement\\EmployeeManagement\\EditEmployeeDetails.aspx",
+              "RelativeToolTip": "EmployeeManagement\\EditEmployeeDetails.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-10T05:49:13.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\ntt data online case study\\EmployeeManagement\\EmployeeManagement\\Web.config",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Web.config",
+              "ToolTip": "C:\\ntt data online case study\\EmployeeManagement\\EmployeeManagement\\Web.config",
+              "RelativeToolTip": "EmployeeManagement\\Web.config",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAC8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-10T05:10:54.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AddNewEmployee.aspx.designer.cs",
+              "DocumentMoniker": "C:\\ntt data online case study\\EmployeeManagement\\EmployeeManagement\\AddNewEmployee.aspx.designer.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\AddNewEmployee.aspx.designer.cs",
+              "ToolTip": "C:\\ntt data online case study\\EmployeeManagement\\EmployeeManagement\\AddNewEmployee.aspx.designer.cs",
+              "RelativeToolTip": "EmployeeManagement\\AddNewEmployee.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T18:29:31.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AddNewEmployee.aspx.cs",
+              "DocumentMoniker": "C:\\ntt data online case study\\EmployeeManagement\\EmployeeManagement\\AddNewEmployee.aspx.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\AddNewEmployee.aspx.cs",
+              "ToolTip": "C:\\ntt data online case study\\EmployeeManagement\\EmployeeManagement\\AddNewEmployee.aspx.cs",
+              "RelativeToolTip": "EmployeeManagement\\AddNewEmployee.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T18:24:48.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddNewEmployee.aspx",
+              "DocumentMoniker": "C:\\ntt data online case study\\EmployeeManagement\\EmployeeManagement\\AddNewEmployee.aspx",
+              "RelativeDocumentMoniker": "EmployeeManagement\\AddNewEmployee.aspx",
+              "ToolTip": "C:\\ntt data online case study\\EmployeeManagement\\EmployeeManagement\\AddNewEmployee.aspx",
+              "RelativeToolTip": "EmployeeManagement\\AddNewEmployee.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-09T18:24:14.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EmployeeDetails.aspx.cs",
+              "DocumentMoniker": "C:\\ntt data online case study\\EmployeeManagement\\EmployeeManagement\\EmployeeDetails.aspx.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\EmployeeDetails.aspx.cs",
+              "ToolTip": "C:\\ntt data online case study\\EmployeeManagement\\EmployeeManagement\\EmployeeDetails.aspx.cs",
+              "RelativeToolTip": "EmployeeManagement\\EmployeeDetails.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T17:35:41.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EmployeeDataAccess.cs",
+              "DocumentMoniker": "C:\\ntt data online case study\\EmployeeManagement\\EmployeeManagement\\EmployeeDataAccess.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\EmployeeDataAccess.cs",
+              "ToolTip": "C:\\ntt data online case study\\EmployeeManagement\\EmployeeManagement\\EmployeeDataAccess.cs",
+              "RelativeToolTip": "EmployeeManagement\\EmployeeDataAccess.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAkwDcAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T17:32:24.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "C:\\ntt data online case study\\EmployeeManagement\\EmployeeManagement\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Default.aspx.cs",
+              "ToolTip": "C:\\ntt data online case study\\EmployeeManagement\\EmployeeManagement\\Default.aspx.cs",
+              "RelativeToolTip": "EmployeeManagement\\Default.aspx.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAIA9wB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T17:28:07.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeDetails.aspx",
+              "DocumentMoniker": "C:\\ntt data online case study\\EmployeeManagement\\EmployeeManagement\\EmployeeDetails.aspx",
+              "RelativeDocumentMoniker": "EmployeeManagement\\EmployeeDetails.aspx",
+              "ToolTip": "C:\\ntt data online case study\\EmployeeManagement\\EmployeeManagement\\EmployeeDetails.aspx",
+              "RelativeToolTip": "EmployeeManagement\\EmployeeDetails.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-09T17:27:11.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\ntt data online case study\\EmployeeManagement\\EmployeeManagement\\Default.aspx",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Default.aspx",
+              "ToolTip": "C:\\ntt data online case study\\EmployeeManagement\\EmployeeManagement\\Default.aspx",
+              "RelativeToolTip": "EmployeeManagement\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-09T17:09:15.116Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
